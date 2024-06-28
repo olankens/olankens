@@ -1,4 +1,4 @@
-### I'm [Jolan Gerkens](//linkedin.com), he/him, full-stack developer.
+### I'm [Jolan Gerkens](//linkedin.com/in/jolangerkens), he/him, full-stack developer.
 
 <!-- Actively looking for a developer job in Belgium. -->
 
