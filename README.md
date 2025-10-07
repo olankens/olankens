@@ -4,4 +4,4 @@ Focused on reusable libraries and solutions that enhance overall productivity an
 
 Passionate about solving problems and sharing code with the community.
 
-**Actively looking for a developer position in Belgium.**
+**Actively looking for a developer position.**
