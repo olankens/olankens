@@ -2,7 +2,7 @@
 
 **REACT AND TYPESCRIPT EXPERT**
 
-*Nulla facilisi. Donec volutpat metus vitae turpis ultricies lobortis. Duis vel massa non ex ultrices rutrum. Praesent dignissim condimentum consequat. Sed mollis commodo odio, quis imperdiet augue porttitor quis nullam in iaculis ante.*
+Nulla facilisi. Donec volutpat metus vitae turpis ultricies lobortis. Duis vel massa non ex ultrices rutrum. Praesent dignissim condimentum consequat. Sed mollis commodo odio, quis imperdiet augue porttitor quis nullam in iaculis ante.
 
 <hr>
 
