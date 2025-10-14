@@ -1,4 +1,6 @@
-<img src=".assets/426x213b.png" width="31.666%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/426x213y.png" width="31.666%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/426x213r.png" width="31.666%"/>
+<img src=".assets/426x142b.png" width="31.666%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/426x142y.png" width="31.666%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/426x142r.png" width="31.666%"/>
+
+<hr>
 
 ### Software Developer | React and TypeScript
 
