@@ -1,6 +1,6 @@
 <hr>
 
-### I Am Jolan Gerkens, Software Developer
+### Software Developer | Node.js & TypeScript Expert | Backend, Frontend, and Mobile | AI Enthusiast and DevOps Mindset
 
 Nulla facilisi. Donec volutpat metus vitae turpis ultricies lobortis. Duis vel massa non ex ultrices rutrum. Praesent dignissim condimentum consequat. Sed mollis commodo odio, quis imperdiet augue porttitor quis. Nullam in iaculis ante, suscipit aliquam orci.
 
