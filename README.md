@@ -1,5 +1,3 @@
-![](.assets/1280x640.png)
-
 Nulla facilisi. Donec volutpat metus vitae turpis ultricies lobortis. Duis vel massa non ex ultrices rutrum. Praesent dignissim condimentum consequat. Sed mollis commodo odio, quis imperdiet augue porttitor quis. Nullam in iaculis ante, suscipit aliquam orci. Sed mattis facilisis tellus.
 
 ---
