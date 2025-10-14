@@ -1,6 +1,6 @@
-<hr>
+<img src=".assets/426x213b.png" width="31.666%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/426x213y.png" width="31.666%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/426x213r.png" width="31.666%"/>
 
-### Software Developer | Node.js & TypeScript Expert | Backend, Frontend, and Mobile | AI Enthusiast and DevOps Mindset
+### Software Developer | React and TypeScript
 
 Nulla facilisi. Donec volutpat metus vitae turpis ultricies lobortis. Duis vel massa non ex ultrices rutrum. Praesent dignissim condimentum consequat. Sed mollis commodo odio, quis imperdiet augue porttitor quis. Nullam in iaculis ante, suscipit aliquam orci.
 
