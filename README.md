@@ -2,7 +2,7 @@
 
 ### I Am Jolan Gerkens, Software Developer
 
-Nulla facilisi. Donec volutpat metus vitae turpis ultricies lobortis. Duis vel massa non ex ultrices rutrum. Praesent dignissim condimentum consequat. Sed mollis commodo odio, quis imperdiet augue porttitor quis. Nullam in iaculis ante, suscipit aliquam orci. Sed mattis facilisis tellus.
+Nulla facilisi. Donec volutpat metus vitae turpis ultricies lobortis. Duis vel massa non ex ultrices rutrum. Praesent dignissim condimentum consequat. Sed mollis commodo odio, quis imperdiet augue porttitor quis. Nullam in iaculis ante, suscipit aliquam orci.
 
 <hr>
 
