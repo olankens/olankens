@@ -6,6 +6,6 @@ Nulla facilisi. Donec volutpat metus vitae turpis ultricies lobortis. Duis vel m
 
 <hr>
 
-### I Build Applications With
+### I Build Applications Withx
 
 <img src=".assets/typescript.png" width="10.3125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/react.png" width="10.3125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/expo.png" width="10.3125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/nextjs.png" width="10.3125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/angular.png" width="10.3125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/nestjs.png" width="10.3125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/postgresql.png" width="10.3125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/prisma.png" width="10.3125%"/>
