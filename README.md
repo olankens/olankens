@@ -2,8 +2,6 @@
 
 Nulla facilisi. Donec volutpat metus vitae turpis ultricies lobortis. Duis vel massa non ex ultrices rutrum. Praesent dignissim condimentum consequat. Sed mollis commodo odio, quis imperdiet augue porttitor quis nullam in iaculis ante.
 
----
-
 **DEVELOPING APPLICATIONS WITH**
 
 <!-- <a href="https://typescriptlang.org"><img src=".assets/typescript.png" width="11.40625%"/></a><img src=".assets/1x1.png" width="1.25%"/><a href="https://react.dev"><img src=".assets/react.png" width="11.40625%"/></a><img src=".assets/1x1.png" width="1.25%"/><a href="https://expo.dev"><img src=".assets/expo.png" width="11.40625%"/></a><img src=".assets/1x1.png" width="1.25%"/><a href="https://nextjs.org"><img src=".assets/nextjs.png" width="11.40625%"/></a><img src=".assets/1x1.png" width="1.25%"/><a href="https://nestjs.com"><img src=".assets/nestjs.png" width="11.40625%"/></a><img src=".assets/1x1.png" width="1.25%"/><a href="https://postgresql.org"><img src=".assets/postgresql.png" width="11.40625%"/></a><img src=".assets/1x1.png" width="1.25%"/><a href="https://prisma.io"><img src=".assets/prisma.png" width="11.40625%"/></a><img src=".assets/1x1.png" width="1.25%"/><a href="https://docker.com"><img src=".assets/docker.png" width="11.40625%"/></a><a href="https://prisma.io"><img src=".assets/prisma.png" width="11.40625%"/></a><img src=".assets/1x1.png" width="1.25%"/><a href="https://docker.com"><img src=".assets/docker.png" width="11.40625%"/></a> -->
