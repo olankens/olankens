@@ -1,6 +1,6 @@
 ### FULL STACK DEVELOPER
 
-Nulla facilisi. Donec volutpat metus vitae turpis ultricies lobortis. Duis vel massa non ex ultrices rutrum. Praesent dignissim condimentum consequat. Sed mollis commodo odio, quis imperdiet augue porttitor quis nullam in iaculis ante.
+I push boundaries to create elegant, modern solutions that others might consider impossible. I thrive on breaking conventions, finding smarter paths, and delivering systems that are both innovative and reliable.
 
 <!--
 ### CRAFTING APPLICATIONS WITH:
