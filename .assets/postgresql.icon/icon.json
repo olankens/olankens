@@ -15,10 +15,10 @@
             }
           ],
           "glass" : false,
-          "image-name" : "react-color.svg",
-          "name" : "react-color",
+          "image-name" : "postgresql.svg",
+          "name" : "postgresql",
           "position" : {
-            "scale" : 34,
+            "scale" : 32,
             "translation-in-points" : [
               0,
               0

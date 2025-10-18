@@ -6,11 +6,19 @@
     {
       "layers" : [
         {
+          "fill-specializations" : [
+            {
+              "appearance" : "dark",
+              "value" : {
+                "automatic-gradient" : "srgb:1.00000,1.00000,1.00000,1.00000"
+              }
+            }
+          ],
           "glass" : false,
-          "image-name" : "typescript.svg",
-          "name" : "typescript",
+          "image-name" : "cursor.svg",
+          "name" : "cursor",
           "position" : {
-            "scale" : 1.4,
+            "scale" : 820,
             "translation-in-points" : [
               0,
               0

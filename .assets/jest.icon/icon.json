@@ -15,10 +15,10 @@
             }
           ],
           "glass" : false,
-          "image-name" : "react-color.svg",
-          "name" : "react-color",
+          "image-name" : "jest-color.svg",
+          "name" : "jest-color",
           "position" : {
-            "scale" : 34,
+            "scale" : 31,
             "translation-in-points" : [
               0,
               0
