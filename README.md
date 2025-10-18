@@ -1,4 +1,4 @@
-**FULLSTACK TYPESCRIPT DEVELOPER**
+### FULLSTACK TYPESCRIPT DEVELOPER
 
 I push boundaries to create elegant, modern solutions that others might consider impossible. I thrive on breaking conventions, finding smarter paths, and delivering systems that are both innovative and reliable.
 
