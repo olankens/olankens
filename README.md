@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisi dui, auctor
 
 <h4>MY LATEST CREATION</h4>
 
-![](https://lipsum.app/1280x256/273445/fff)
+![](https://lipsum.app/1280x256/4493F8/fff)
 
 <hr>
 
