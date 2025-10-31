@@ -1,11 +1,5 @@
 <hr>
 
-<h4>TYPESCRIPT ARTISAN</h4>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisi dui, auctor id venenatis vel, interdum sit amet lacus. In dapibus quis ante eu auctor. Ut feugiat congue libero, consequat gravida magna convallis vitae. Nam tempus leo suscipit justo luctus vulputate.
-
-<hr>
-
 <h4>MY LATEST CREATION</h4>
 
 ![](https://lipsum.app/1280x256/4493F8/fff)
