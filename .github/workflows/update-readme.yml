@@ -1,0 +1,70 @@
+name: Update README with Latest Repos
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Generate Latest Repos Section
+        run: |
+          node <<'EOF'
+          const fs = require('fs');
+          const axios = require('axios');
+          const username = 'olankens';
+          const maxRepos = 6;
+          const readmePath = 'README.md';
+
+          async function main() {
+            const res = await axios.get(`https://api.github.com/users/${username}/repos?sort=updated&per_page=${maxRepos * 2}`);
+            const repos = res.data.filter(repo => repo.name !== username).slice(0, maxRepos);
+
+            const icons = repos.map(repo =>
+              `<a href="https://github.com/${username}/${repo.name}"><img src="https://raw.githubusercontent.com/${username}/${repo.name}/refs/heads/main/.assets/icon.svg" width="15.625%"/></a>`
+            ).join('<picture><img src=".assets/1x1.png" width="1.25%"/></picture>');
+
+            let readme = fs.readFileSync(readmePath, 'utf8');
+            const regex = /<!--LATEST_REPOS_START-->[\s\S]*<!--LATEST_REPOS_END-->/;
+            const newSection = `<!--LATEST_REPOS_START-->\n${icons}\n<!--LATEST_REPOS_END-->`;
+
+            if (regex.test(readme)) {
+              readme = readme.replace(regex, newSection);
+            } else {
+              readme += `\n${newSection}`;
+            }
+
+            fs.writeFileSync(readmePath, readme);
+          }
+
+          main();
+          EOF
+
+      - name: Commit and Push changes
+        run: |
+          # git config --local user.name "github-actions[bot]"
+          # git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "olankens"
+          git config --local user.email "173156207+olankens@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update latest repositories section" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
