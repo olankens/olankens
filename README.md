@@ -11,5 +11,3 @@
 #### MY FAVOURITE STACK
 
 <a href="https://angular.dev"><img src=".assets/angular.svg" width="19%"/></a><picture><img src=".assets/00.png" width="1.25%"/></picture><a href="https://flutter.dev"><img src=".assets/flutter.svg" width="19%"/></a><picture><img src=".assets/00.png" width="1.25%"/></picture><a href="https://spring.io"><img src=".assets/spring.svg" width="19%"/></a><picture><img src=".assets/00.png" width="1.25%"/></picture><a href="https://claude.com/product/claude-code"><img src=".assets/claude.svg" width="19%"/></a><picture><img src=".assets/00.png" width="1.25%"/></picture><a href="https://docker.com"><img src=".assets/docker.svg" width="19%"/></a>
-
-<hr>
