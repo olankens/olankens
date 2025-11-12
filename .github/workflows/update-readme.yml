@@ -1,4 +1,4 @@
-name: Update README with Latest Repos
+name: Update Recent Commits Section
 
 on:
   schedule:
