@@ -8,6 +8,12 @@
 
 <hr>
 
+#### FEATURED WORKS
+
+<img src="https://lipsum.app/632x640/333/333" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/333/333" width="49.375%"/>
+
+<hr>
+
 #### FAVOURITE STACK
 
 <a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture>
