@@ -14,8 +14,8 @@
 
 <hr>
 
-#### FAVOURITE STACK
+<!-- #### FAVOURITE STACK
 
 <a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/icon.svg" width="10%"/></a><picture>
 
-<hr>
+<hr> -->
