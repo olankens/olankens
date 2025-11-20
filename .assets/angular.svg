@@ -1,4 +1,186 @@
-<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="128" height="128" fill="#333333"/>
-<path d="M82.848 86.844H45.152L40.336 98.508L64 112L87.664 98.508L82.848 86.844ZM74.768 16L106.096 83.42L109.352 31.996L74.768 16ZM53.232 16L18.648 31.996L21.904 83.42L53.232 16ZM51.612 71.72H76.404L64 41.584L51.612 71.72Z" fill="white"/>
-</svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128"><defs><clipPath id="cfIVUzARPGTP"><path fill="#ffffff00" stroke="none" paint-order="stroke fill markers" d=" M 16.687436072439482 14.978060486859619 L 111.3125639275604 14.978060486859619 L 111.3125639275604 14.978060486859619 L 111.3125639275604 114.93418146057883 L 111.3125639275604 114.93418146057883 L 16.687436072439482 114.93418146057883 L 16.687436072439482 114.93418146057883 L 16.687436072439482 14.978060486859619 L 16.687436072439482 14.978060486859619 Z"/></clipPath><style xmlns="http://www.w3.org/1999/xhtml" type="text/css">@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  src: url('https://frame0.app/fonts/Inter-Thin.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 100;
+  src: url('https://frame0.app/fonts/Inter-ThinItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  src: url('https://frame0.app/fonts/Inter-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 200;
+  src: url('https://frame0.app/fonts/Inter-ExtraLightItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  src: url('https://frame0.app/fonts/Inter-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 300;
+  src: url('https://frame0.app/fonts/Inter-LightItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Inter-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Inter-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://frame0.app/fonts/Inter-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 500;
+  src: url('https://frame0.app/fonts/Inter-MediumItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  src: url('https://frame0.app/fonts/Inter-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 600;
+  src: url('https://frame0.app/fonts/Inter-SemiBoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Inter-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Inter-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  src: url('https://frame0.app/fonts/Inter-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 800;
+  src: url('https://frame0.app/fonts/Inter-ExtraBoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/SourceSerifPro-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/SourceSerifPro-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/SourceSerifPro-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/SourceSerifPro-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/IBMPlexMono-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/IBMPlexMono-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/IBMPlexMono-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/IBMPlexMono-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Loranthus-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Loranthus-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Loranthus-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Loranthus-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Redacted Script';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/RedactedScript-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Redacted Script';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/RedactedScript-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Jojoba';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Jojoba.ttf') format('truetype');
+}</style></defs><g><g><g><g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 0.5 0.5 C 26.616354298219107 1.700594375319779 52.6756768234074 1.2014343239739538 127.5 0.5 M 0.5 0.5 C 27.50590235553682 -0.24830606464296578 54.58732547610998 0.5519579362496734 127.5 0.5 M 127.5 0.5 C 127.2994916215539 1.7600640282034874 128.0507054105401 -0.3991278186440468 127.5 0.5 M 127.5 0.5 C 125.4312261682004 0.1183652002364397 128.606580613181 1.0527788598090408 127.5 0.5 M 127.5 0.5 C 127.40078919786959 31.231007709726693 127.29627722162752 60.6385944403708 127.5 127.5 M 127.5 0.5 C 128.95679172005504 26.64860805682838 128.95424385990947 54.67833732068539 127.5 127.5 M 127.5 127.5 C 128.2070922628045 127.55061783641577 126.87358162552118 125.65864553302526 127.5 127.5 M 127.5 127.5 C 127.47530336193739 126.76858408041298 126.32214561514559 127.29098869152367 127.5 127.5 M 127.5 127.5 C 96.61908530928196 128.8865382031724 68.01106485947969 128.7728609399125 0.5 127.5 M 127.5 127.5 C 101.5320783454925 126.42779709909111 75.97513788044455 128.13309802625326 0.5 127.5 M 0.5 127.5 C -1.1944730505347252 125.59137763828039 1.3899774327874184 127.60065808147192 0.5 127.5 M 0.5 127.5 C -0.803811659291398 128.40739434547723 0.1324505310505515 127.71958434171975 0.5 127.5 M 0.5 127.5 C -1.4542065997794111 82.5271074656397 -1.470812692232414 40.452618121355755 0.5 0.5 M 0.5 127.5 C 0.09123727265745174 77.46693099178373 -0.5589012246951484 28.989841522276393 0.5 0.5 M 0.5 0.5 C -0.35222580283880234 -1.2917288318276405 -0.04244115203619003 0.32315006107091904 0.5 0.5 M 0.5 0.5 C -0.33191235251723583 1.258831639960408 0.2620925288647413 2.6684608299285175 0.5 0.5 M 0.5 0.5 C 0.5 0.5 0.5 0.5 0.5 0.5 M 0.5 0.5 C 0.5 0.5 0.5 0.5 0.5 0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/></g></g><g clip-path="url(#cfIVUzARPGTP)"><g><image width="94.62512785512092" height="99.95612097371921" preserveAspectRatio="none" transform="matrix(1 0 0 1 16.68743896484375 14.978060722351074)" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIF9uZ2NvbnRlbnQtbmctYzU4NjY3NTY1Nz0iIiBmaWxsPSJub25lIiBjbGFzcz0iYW5ndWxhci1sb2dvIiB2aWV3Qm94PSIwIDAgMjIyLjA4IDIzNS4wNyI+PGcgX25nY29udGVudC1uZy1jNTg2Njc1NjU3PSIiIGNsaXAtcGF0aD0idXJsKCNhKSI+PHBhdGggX25nY29udGVudC1uZy1jNTg2Njc1NjU3PSIiIGZpbGw9InVybCgjYikiIGQ9Im0yMjIuMDc3IDM5LjE5Mi04LjAxOSAxMjUuOTIzTDEzNy4zODcgMGw4NC42OSAzOS4xOTJabS01My4xMDUgMTYyLjgyNS01Ny45MzMgMzMuMDU2LTU3LjkzNC0zMy4wNTYgMTEuNzgzLTI4LjU1Nmg5Mi4zMDFsMTEuNzgzIDI4LjU1NlpNMTExLjAzOSA2Mi42NzVsMzAuMzU3IDczLjgwM0g4MC42ODFsMzAuMzU4LTczLjgwM1pNNy45MzcgMTY1LjExNSAwIDM5LjE5MiA4NC42OSAwIDcuOTM3IDE2NS4xMTVaIi8+PHBhdGggX25nY29udGVudC1uZy1jNTg2Njc1NjU3PSIiIGZpbGw9InVybCgjYykiIGQ9Im0yMjIuMDc3IDM5LjE5Mi04LjAxOSAxMjUuOTIzTDEzNy4zODcgMGw4NC42OSAzOS4xOTJabS01My4xMDUgMTYyLjgyNS01Ny45MzMgMzMuMDU2LTU3LjkzNC0zMy4wNTYgMTEuNzgzLTI4LjU1Nmg5Mi4zMDFsMTEuNzgzIDI4LjU1NlpNMTExLjAzOSA2Mi42NzVsMzAuMzU3IDczLjgwM0g4MC42ODFsMzAuMzU4LTczLjgwM1pNNy45MzcgMTY1LjExNSAwIDM5LjE5MiA4NC42OSAwIDcuOTM3IDE2NS4xMTVaIi8+PC9nPjxkZWZzIF9uZ2NvbnRlbnQtbmctYzU4NjY3NTY1Nz0iIj48bGluZWFyR3JhZGllbnQgX25nY29udGVudC1uZy1jNTg2Njc1NjU3PSIiIGlkPSJiIiB4MT0iNDkuMDA5IiB4Mj0iMjI1LjgyOSIgeTE9IjIxMy43NSIgeTI9IjEyOS43MjIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBfbmdjb250ZW50LW5nLWM1ODY2NzU2NTc9IiIgc3RvcC1jb2xvcj0iI0U0MDAzNSIvPjxzdG9wIF9uZ2NvbnRlbnQtbmctYzU4NjY3NTY1Nz0iIiBvZmZzZXQ9Ii4yNCIgc3RvcC1jb2xvcj0iI0Y2MEE0OCIvPjxzdG9wIF9uZ2NvbnRlbnQtbmctYzU4NjY3NTY1Nz0iIiBvZmZzZXQ9Ii4zNTIiIHN0b3AtY29sb3I9IiNGMjA3NTUiLz48c3RvcCBfbmdjb250ZW50LW5nLWM1ODY2NzU2NTc9IiIgb2Zmc2V0PSIuNDk0IiBzdG9wLWNvbG9yPSIjREMwODdEIi8+PHN0b3AgX25nY29udGVudC1uZy1jNTg2Njc1NjU3PSIiIG9mZnNldD0iLjc0NSIgc3RvcC1jb2xvcj0iIzk3MTdFNyIvPjxzdG9wIF9uZ2NvbnRlbnQtbmctYzU4NjY3NTY1Nz0iIiBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM2QzAwRjUiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBfbmdjb250ZW50LW5nLWM1ODY2NzU2NTc9IiIgaWQ9ImMiIHgxPSI0MS4wMjUiIHgyPSIxNTYuNzQxIiB5MT0iMjguMzQ0IiB5Mj0iMTYwLjM0NCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIF9uZ2NvbnRlbnQtbmctYzU4NjY3NTY1Nz0iIiBzdG9wLWNvbG9yPSIjRkYzMUQ5Ii8+PHN0b3AgX25nY29udGVudC1uZy1jNTg2Njc1NjU3PSIiIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI0ZGNUJFMSIgc3RvcC1vcGFjaXR5PSIwIi8+PC9saW5lYXJHcmFkaWVudD48Y2xpcFBhdGggX25nY29udGVudC1uZy1jNTg2Njc1NjU3PSIiIGlkPSJhIj48cGF0aCBfbmdjb250ZW50LW5nLWM1ODY2NzU2NTc9IiIgZmlsbD0iI2ZmZiIgZD0iTTAgMGgyMjN2MjM2SDB6Ii8+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+"/></g></g></g></g></g></svg>

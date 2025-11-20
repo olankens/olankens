@@ -1,0 +1,186 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128"><defs><clipPath id="ayZmAFclyzRB"><path fill="#00000000" stroke="none" paint-order="stroke fill markers" d=" M 15 15.956120973719237 L 113 15.956120973719237 L 113 15.956120973719237 L 113 113.95612097371924 L 113 113.95612097371924 L 15 113.95612097371924 L 15 113.95612097371924 L 15 15.956120973719237 L 15 15.956120973719237 Z"/></clipPath><style xmlns="http://www.w3.org/1999/xhtml" type="text/css">@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  src: url('https://frame0.app/fonts/Inter-Thin.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 100;
+  src: url('https://frame0.app/fonts/Inter-ThinItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  src: url('https://frame0.app/fonts/Inter-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 200;
+  src: url('https://frame0.app/fonts/Inter-ExtraLightItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  src: url('https://frame0.app/fonts/Inter-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 300;
+  src: url('https://frame0.app/fonts/Inter-LightItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Inter-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Inter-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://frame0.app/fonts/Inter-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 500;
+  src: url('https://frame0.app/fonts/Inter-MediumItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  src: url('https://frame0.app/fonts/Inter-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 600;
+  src: url('https://frame0.app/fonts/Inter-SemiBoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Inter-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Inter-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  src: url('https://frame0.app/fonts/Inter-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 800;
+  src: url('https://frame0.app/fonts/Inter-ExtraBoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/SourceSerifPro-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/SourceSerifPro-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/SourceSerifPro-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/SourceSerifPro-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/IBMPlexMono-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/IBMPlexMono-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/IBMPlexMono-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/IBMPlexMono-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Loranthus-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Loranthus-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Loranthus-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Loranthus-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Redacted Script';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/RedactedScript-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Redacted Script';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/RedactedScript-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Jojoba';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Jojoba.ttf') format('truetype');
+}</style></defs><g><g><g><g><g><path fill="none" stroke="#ffffff" paint-order="fill stroke markers" d=" M 0.5 0.5 C 40.35084772873665 2.6458838472329083 85.0626781549305 0.4413556346856058 127.5 0.5 M 0.5 0.5 C 27.813462506420933 -0.0033630494587122417 53.500581533461855 0.6784708734042944 127.5 0.5 M 127.5 0.5 C 128.20629439875484 2.0369222946465015 128.2760848812759 -1.106695931404829 127.5 0.5 M 127.5 0.5 C 126.55779943112282 -0.2636602694168686 129.25513497833163 -0.1794609541073442 127.5 0.5 M 127.5 0.5 C 125.20042388236152 36.51686505097896 128.12654213702308 71.83705338947475 127.5 127.5 M 127.5 0.5 C 127.71270148845394 49.68100543562323 127.46839712949475 100.96735620051622 127.5 127.5 M 127.5 127.5 C 128.44681761786342 127.33323188498616 129.43632016703486 127.61078293994069 127.5 127.5 M 127.5 127.5 C 127.04378795865921 125.88855243977159 127.31482021454724 126.48657640870661 127.5 127.5 M 127.5 127.5 C 76.89360637050117 127.53543802374973 27.576896600797795 126.94267281169071 0.5 127.5 M 127.5 127.5 C 80.44176276382063 126.84861977456137 34.576753662526585 126.54433538077399 0.5 127.5 M 0.5 127.5 C 0.4507800154387951 127.60212524607778 2.1877534203231335 129.04535241797566 0.5 127.5 M 0.5 127.5 C 0.16255331877619028 127.21125064548104 0.27990801576527247 129.43982900436967 0.5 127.5 M 0.5 127.5 C 1.0481812309659517 89.9902993781492 -2.2716187882982695 54.45376595593987 0.5 0.5 M 0.5 127.5 C 0.4086124308221315 95.6330626381561 0.7751212127320741 63.57901195213198 0.5 0.5 M 0.5 0.5 C -0.15694047883152962 1.3261463232338428 -0.5908311791718006 0.9881501980125904 0.5 0.5 M 0.5 0.5 C -0.07706049438570517 -1.7871244901791212 -1.2862654363736965 2.6811208074912427 0.5 0.5 M 0.5 0.5 C 0.5 0.5 0.5 0.5 0.5 0.5 M 0.5 0.5 C 0.5 0.5 0.5 0.5 0.5 0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/></g></g><g clip-path="url(#ayZmAFclyzRB)"><g><image width="98" height="98" preserveAspectRatio="none" transform="matrix(1 0 0 1 15 15.956121444702148)" xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjU2cHgiIGhlaWdodD0iMjU2cHgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4KICAgIDxnPgogICAgICAgIDxwYXRoIGQ9Ik0zOC45NDM3ODI0LDM1Ljg3OTAwOCBDODkuNTIzNDI1NiwtMTMuMTIwMDIxNCAxNzAuMzk4MTY4LC0xMS44MDI4NDMyIDIxOS4zOTcxOTcsMzkuMDQwMjM1NyBDMjI0LjkyOTM0NiwzMS42NjQwMzc3IDIyOS42NzExODcsMjMuNDk3NTMyOCAyMzMuMDk1ODUxLDE1LjA2NzU5MjMgQzI0OS4xNjU0MjUsNjQuMDY2NjIxNyAyNTguOTEyNTQzLDEwNS4xNjI1ODIgMjU1LjIyNDQ0NCwxMzcuMDM4Mjk1IEMyNTMuMzgwMzk1LDE2My45MDg3MyAyNDIuODQyOTY5LDE4OS43MjU0MjMgMjI1LjQ1NjIxNywyMTAuMjczNDAzIEMxODAuMTQ1Mjg2LDI2NC4wMTQyNzQgOTkuNTMzOTgsMjcwLjg2MzYwMSA0NS43OTMxMDkxLDIyNS41NTI2NyBMNDUuNzkzMTA5MSwyMjUuNTUyNjcgTDQ0Ljc2NSwyMjQuNjM4IEw0NC43MTAzMzIzLDIyNC42MDE5ODQgQzQ0LjU0MjAyNDcsMjI0LjQ4NDgzMiA0NC4zNzYwMDcsMjI0LjM2MjY2OCA0NC4yMTI0OTUyLDIyNC4yMzU0OTIgQzQzLjcyMTk1OTksMjIzLjg1Mzk2NSA0My4yNzY1MzEyLDIyMy40Mzg2MDcgNDIuODc2MjA5MywyMjIuOTk1MjUyIEw0Mi43MzIsMjIyLjgzMSBMNDEuMDUxMjY3NSwyMjEuMzM3NyBDMzkuNDEyMTEyNCwyMTkuOTMyNzEgMzcuNzcyOTU3MywyMTguNTI3NzIgMzYuMzE4ODIxNSwyMTYuOTM3NzEgTDM1Ljc4MjU1NDcsMjE2LjMzMjQyMyBDLTEzLjIxNjQ3NDcsMTY1Ljc1Mjc3OSAtMTEuNjM1ODYwOSw4NC44NzgwMzc0IDM4Ljk0Mzc4MjQsMzUuODc5MDA4IFogTTU3LjkxMTE0ODYsMjA3LjM3NTYxMSBDNTMuMTY5MzA3LDIwMy42ODc1MTIgNDYuMzE5OTgwMywyMDQuMjE0MzgzIDQyLjYzMTg4MTQsMjA4Ljk1NjIyNSBDMzkuMzg4ODk3OCwyMTMuMTI1Nzc1IDM5LjQwNDg3MzEsMjE4LjkyNDgwNSA0Mi42Nzk4MDcyLDIyMi43NzEyNjkgTDQyLjczMiwyMjIuODMxIEw0NC43NjUsMjI0LjYzOCBMNDQuOTY0NDg0MSwyMjQuNzczOTUzIEM0OS41NjkxNTg1LDIyNy44MDE3NCA1NS43NjQ0MjczLDIyNy4xNzU4ODUgNTkuMjk4MjA2NSwyMjIuODk2Mzg3IEw1OS40OTE3NjI0LDIyMi42NTQ4NzggQzYzLjE3OTg2MTQsMjE3LjkxMzAzNyA2Mi4zODk1NTQ1LDIxMS4wNjM3MSA1Ny45MTExNDg2LDIwNy4zNzU2MTEgWiBNMjMxLjc3ODY3MiwyOC4yMzkzNzQ0IEMyMTguNjA2ODksNTUuOTAwMTE2OCAxODUuOTQwODcxLDc2Ljk3NDk2ODEgMTU3Ljc1MzI1Nyw4My41NjA4NTkyIEMxMzEuMTQ2MjU3LDg5Ljg4MzMxNDYgMTA3Ljk2MzkyMSw4NC42MTQ2MDE4IDgzLjQ2NDQwNTksOTQuMDk4Mjg0OSBDMjcuNjE2MDQ5OCwxMTUuNDM2NTcyIDI4LjY2OTc5MjMsMTgxLjgyMjM1NCA1OS4yMjgzMjY4LDE5Ni44MzgxODUgTDU5LjIyODMyNjgsMTk2LjgzODE4NSBMNjEuMDcyMzc2MywxOTcuODkxOTI4IEM2MS4wNzIzNzYzLDE5Ny44OTE5MjggODMuMTQ1NjQ4NywxOTMuNTAzMDkgMTA0Ljk3MzY2MywxODcuNzA3MjQyIEwxMDYuODQzNTE0LDE4Ny4yMDcwNzkgQzExNS41NjE4MjYsMTg0Ljg1NzU1NCAxMjQuMTM4ODY5LDE4Mi4yOTY1MzggMTMxLjE0NjI1NywxNzkuNzE0ODY5IEMxNjcuNTAwMzc2LDE2Ni4yNzk2NTEgMjA3LjU0MjU5MywxMzMuMDg2NzYgMjIwLjcxNDM3NSw5NC42MjUxNTYyIEMyMTMuODY1MDQ5LDEzNC42NjczNzQgMTc5LjM1NDk4LDE3My4zOTI0MTMgMTQ0Ljg0NDkxLDE5MS4wNDI2MDEgQzEyNi40MDQ0MTYsMjAwLjUyNjI4NCAxMTIuMTc4ODkxLDIwMi42MzM3NjkgODEuODgzNzkyLDIxMy4xNzExOTUgQzc4LjE5NTY5MywyMTQuNDg4MzczIDc1LjI5NzkwMSwyMTUuODA1NTUxIDc1LjI5NzkwMSwyMTUuODA1NTUxIEM3NS42Njc1NjA3LDIxNS43NTQ1NjQgNzYuMDM3MjIwMywyMTUuNzA0ODEgNzYuNDA2MDE0NSwyMTUuNjU2MjkgTDc3LjE0MjE5MjUsMjE1LjU2MDg5MyBMNzcuMTQyMTkyNSwyMTUuNTYwODkzIEw3Ny44NzQ1MjM5LDIxNS40Njg3ODcgQzg0LjU2NTIyOTcsMjE0LjYzOTU1NCA5MC41NzcxNjgyLDIxNC4yMjQ5MzggOTAuNTc3MTY4MiwyMTQuMjI0OTM4IEMxMzMuNTE3MTc4LDIxMi4xMTc0NTIgMjAwLjk1NjcwMiwyMjYuMzQyOTc3IDIzMi4zMDU1NDQsMTg0LjQ1NjcxIEMyNjQuNDQ0NjkyLDE0MS43ODAxMzYgMjQ2LjUzMTA2OCw3Mi43NTk5OTc5IDIzMS43Nzg2NzIsMjguMjM5Mzc0NCBaIiBmaWxsPSIjNkRCMzNGIi8+CiAgICAgICAgPHBhdGggZD0iTTU3LjkxMTE0ODYsMjA3LjM3NTYxMSBDNjIuMzg5NTU0NSwyMTEuMDYzNzEgNjMuMTc5ODYxNCwyMTcuOTEzMDM3IDU5LjQ5MTc2MjQsMjIyLjY1NDg3OCBDNTUuODAzNjYzNSwyMjcuMzk2NzIgNDguOTU0MzM2OCwyMjcuOTIzNTkxIDQ0LjIxMjQ5NTIsMjI0LjIzNTQ5MiBDMzkuNDcwNjUzNywyMjAuNTQ3MzkzIDM4Ljk0Mzc4MjQsMjEzLjY5ODA2NiA0Mi42MzE4ODE0LDIwOC45NTYyMjUgQzQ2LjMxOTk4MDMsMjA0LjIxNDM4MyA1My4xNjkzMDcsMjAzLjY4NzUxMiA1Ny45MTExNDg2LDIwNy4zNzU2MTEgWiBNMjMxLjc3ODY3MiwyOC4yMzkzNzQ0IEMyNDYuNTMxMDY4LDcyLjc1OTk5NzkgMjY0LjQ0NDY5MiwxNDEuNzgwMTM2IDIzMi4zMDU1NDQsMTg0LjQ1NjcxIEMyMDAuOTU2NzAyLDIyNi4zNDI5NzcgMTMzLjUxNzE3OCwyMTIuMTE3NDUyIDkwLjU3NzE2ODIsMjE0LjIyNDkzOCBDOTAuNTc3MTY4MiwyMTQuMjI0OTM4IDg0LjU2NTIyOTcsMjE0LjYzOTU1NCA3Ny44NzQ1MjM5LDIxNS40Njg3ODcgTDc3LjE0MjE5MjUsMjE1LjU2MDg5MyBDNzYuNTMwMDk5OSwyMTUuNjM5MDIgNzUuOTE0MDAwNCwyMTUuNzIwNTcyIDc1LjI5NzkwMSwyMTUuODA1NTUxIEM3NS4yOTc5MDEsMjE1LjgwNTU1MSA3OC4xOTU2OTMsMjE0LjQ4ODM3MyA4MS44ODM3OTIsMjEzLjE3MTE5NSBDMTEyLjE3ODg5MSwyMDIuNjMzNzY5IDEyNi40MDQ0MTYsMjAwLjUyNjI4NCAxNDQuODQ0OTEsMTkxLjA0MjYwMSBDMTc5LjM1NDk4LDE3My4zOTI0MTMgMjEzLjg2NTA0OSwxMzQuNjY3Mzc0IDIyMC43MTQzNzUsOTQuNjI1MTU2MiBDMjA3LjU0MjU5MywxMzMuMDg2NzYgMTY3LjUwMDM3NiwxNjYuMjc5NjUxIDEzMS4xNDYyNTcsMTc5LjcxNDg2OSBDMTA2LjExOTg3MSwxODguOTM1MTE2IDYxLjA3MjM3NjMsMTk3Ljg5MTkyOCA2MS4wNzIzNzYzLDE5Ny44OTE5MjggTDU5LjIyODMyNjgsMTk2LjgzODE4NSBDMjguNjY5NzkyMywxODEuODIyMzU0IDI3LjYxNjA0OTgsMTE1LjQzNjU3MiA4My40NjQ0MDU5LDk0LjA5ODI4NDkgQzEwNy45NjM5MjEsODQuNjE0NjAxOCAxMzEuMTQ2MjU3LDg5Ljg4MzMxNDYgMTU3Ljc1MzI1Nyw4My41NjA4NTkyIEMxODUuOTQwODcxLDc2Ljk3NDk2ODEgMjE4LjYwNjg5LDU1LjkwMDExNjggMjMxLjc3ODY3MiwyOC4yMzkzNzQ0IFoiIGZpbGw9IiNGRkZGRkYiLz4KICAgIDwvZz4KPC9zdmc+"/></g></g></g></g></g></svg>
