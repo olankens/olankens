@@ -38,8 +38,8 @@ jobs:
               const repos = res.data.filter(repo => repo.name !== username).slice(0, maxRepos);
 
               const icons = repos.map(repo =>
-                `<a href="https://github.com/${username}/${repo.name}"><img src="https://raw.githubusercontent.com/${username}/${repo.name}/refs/heads/main/.assets/icon.svg" width="10%"/></a>`
-              ).join('<picture><img src=".assets/1x1.png" width="1.25%"/></picture>');
+                `<a href="https://github.com/${username}/${repo.name}"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/${username}/${repo.name}/refs/heads/main/.assets/icon-dark.svg"><img src="https://raw.githubusercontent.com/${username}/${repo.name}/refs/heads/main/.assets/icon.svg" width="10%"></picture></a>`
+              ).join('<picture><img src=".assets/1x1.gif" width="1.25%"/></picture>');
 
               let readme = fs.readFileSync(readmePath, 'utf8');
               const regex = /<!--RECENT_COMMITS_START-->[\s\S]*<!--RECENT_COMMITS_CEASE-->/;
