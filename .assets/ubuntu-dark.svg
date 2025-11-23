@@ -1,0 +1,186 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128"><defs><clipPath id="golOBaAElDlH"><path fill="#00000000" stroke="none" paint-order="stroke fill markers" d=" M 14.5 14.5 L 114.5 14.5 L 114.5 14.5 L 114.5 114.5 L 114.5 114.5 L 14.5 114.5 L 14.5 114.5 L 14.5 14.5 L 14.5 14.5 Z"/></clipPath><style xmlns="http://www.w3.org/1999/xhtml" type="text/css">@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  src: url('https://frame0.app/fonts/Inter-Thin.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 100;
+  src: url('https://frame0.app/fonts/Inter-ThinItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  src: url('https://frame0.app/fonts/Inter-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 200;
+  src: url('https://frame0.app/fonts/Inter-ExtraLightItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  src: url('https://frame0.app/fonts/Inter-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 300;
+  src: url('https://frame0.app/fonts/Inter-LightItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Inter-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Inter-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://frame0.app/fonts/Inter-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 500;
+  src: url('https://frame0.app/fonts/Inter-MediumItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  src: url('https://frame0.app/fonts/Inter-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 600;
+  src: url('https://frame0.app/fonts/Inter-SemiBoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Inter-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Inter-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  src: url('https://frame0.app/fonts/Inter-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 800;
+  src: url('https://frame0.app/fonts/Inter-ExtraBoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/SourceSerifPro-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/SourceSerifPro-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/SourceSerifPro-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/SourceSerifPro-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/IBMPlexMono-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/IBMPlexMono-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/IBMPlexMono-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/IBMPlexMono-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Loranthus-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Loranthus-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Loranthus-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Loranthus';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/Loranthus-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Redacted Script';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/RedactedScript-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Redacted Script';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://frame0.app/fonts/RedactedScript-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Jojoba';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://frame0.app/fonts/Jojoba.ttf') format('truetype');
+}</style></defs><g><g><g><g><g><path fill="none" stroke="#ffffff" paint-order="fill stroke markers" d=" M 0.5 0.5 C 25.562254523299544 1.648296971786749 53.60262973494832 -0.3239455027692202 127.5 0.5 M 0.5 0.5 C 49.33847280349573 0.8781340300105285 99.00846714600925 -0.0961319626309205 127.5 0.5 M 127.5 0.5 C 128.26731354370713 -0.5079317130148411 125.62828106060624 -1.2449234761297703 127.5 0.5 M 127.5 0.5 C 126.1187163008376 1.5545577364042629 128.45649396907538 1.220381237752747 127.5 0.5 M 127.5 0.5 C 128.04015140639626 50.69713376816361 129.36930267917 99.9793696735054 127.5 127.5 M 127.5 0.5 C 127.81867770707231 35.00811924170705 128.25360368048769 69.59932640641932 127.5 127.5 M 127.5 127.5 C 127.11298293247819 125.79913365468383 128.98064524307847 127.72652864083648 127.5 127.5 M 127.5 127.5 C 126.07862509023403 125.31173068452625 127.35187276732177 125.6503513889387 127.5 127.5 M 127.5 127.5 C 81.65435419622804 126.58089771373199 35.43929609321049 127.01718642814086 0.5 127.5 M 127.5 127.5 C 100.9087891774252 125.4815023981966 77.11481852084398 126.30132286185398 0.5 127.5 M 0.5 127.5 C 1.2689893878996372 127.38674330338836 1.4859978593885899 126.60267054662108 0.5 127.5 M 0.5 127.5 C 1.6614493383094668 127.02100953627377 -1.2486745284870722 127.23183540273459 0.5 127.5 M 0.5 127.5 C 2.0858636329880937 89.79915142748507 0.08839289648449267 52.746006796881545 0.5 0.5 M 0.5 127.5 C 1.3944471142626753 96.09078158531338 0.5421836040354719 64.62758580222726 0.5 0.5 M 0.5 0.5 C -0.9369083009660244 -0.5005959309637547 0.7338164485991001 -0.9462096728384495 0.5 0.5 M 0.5 0.5 C -1.7851852225139737 0.3241240279749036 2.3909543765707895 0.95871145296843 0.5 0.5 M 0.5 0.5 C 0.5 0.5 0.5 0.5 0.5 0.5 M 0.5 0.5 C 0.5 0.5 0.5 0.5 0.5 0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/></g></g><g clip-path="url(#golOBaAElDlH)"><g><image width="100" height="100" preserveAspectRatio="none" transform="matrix(1 0 0 1 14.5 14.5)" xlink:href="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDx0aXRsZT5VYnVudHU8L3RpdGxlPgogICAgPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE3LjYxLjQ1NWEzLjQxIDMuNDEgMCAwIDAtMy40MSAzLjQxIDMuNDEgMy40MSAwIDAgMCAzLjQxIDMuNDEgMy40MSAzLjQxIDAgMCAwIDMuNDEtMy40MSAzLjQxIDMuNDEgMCAwIDAtMy40MS0zLjQxek0xMi45Mi44QzguOTIzLjc3NyA1LjEzNyAyLjk0MSAzLjE0OCA2LjQ1MWE0LjUgNC41IDAgMCAxIC4yNi0uMDA3IDQuOTIgNC45MiAwIDAgMSAyLjU4NS43MzdBOC4zMTYgOC4zMTYgMCAwIDEgMTIuNjg4IDMuNiA0Ljk0NCA0Ljk0NCAwIDAgMSAxMy43MjMuODM0IDExLjAwOCAxMS4wMDggMCAwIDAgMTIuOTIuOHptOS4yMjYgNC45OTRhNC45MTUgNC45MTUgMCAwIDEtMS45MTggMi4yNDYgOC4zNiA4LjM2IDAgMCAxLS4yNzMgOC4zMDMgNC44OSA0Ljg5IDAgMCAxIDEuNjMyIDIuNTQgMTEuMTU2IDExLjE1NiAwIDAgMCAuNTU5LTEzLjA4OXpNMy40MSA3LjkzMkEzLjQxIDMuNDEgMCAwIDAgMCAxMS4zNDJhMy40MSAzLjQxIDAgMCAwIDMuNDEgMy40MDkgMy40MSAzLjQxIDAgMCAwIDMuNDEtMy40MSAzLjQxIDMuNDEgMCAwIDAtMy40MS0zLjQxem0yLjAyNyA3Ljg2NmE0LjkwOCA0LjkwOCAwIDAgMS0yLjkxNS4zNTggMTEuMSAxMS4xIDAgMCAwIDcuOTkxIDYuNjk4IDExLjIzNCAxMS4yMzQgMCAwIDAgMi40MjIuMjQ5IDQuODc5IDQuODc5IDAgMCAxLS45OTktMi44NSA4LjQ4NCA4LjQ4NCAwIDAgMS0uODM2LS4xMzYgOC4zMDQgOC4zMDQgMCAwIDEtNS42NjMtNC4zMnptMTEuNDA1LjkyOGEzLjQxIDMuNDEgMCAwIDAtMy40MSAzLjQxIDMuNDEgMy40MSAwIDAgMCAzLjQxIDMuNDEgMy40MSAzLjQxIDAgMCAwIDMuNDEtMy40MSAzLjQxIDMuNDEgMCAwIDAtMy40MS0zLjQxeiIvPgo8L3N2Zz4="/></g></g></g></g></g></svg>
