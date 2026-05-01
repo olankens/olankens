@@ -1,0 +1,54 @@
+name: Update My Newest Activity
+on:
+#  schedule:
+#    - cron: "0 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+      - name: Install dependencies
+        run: npm install axios
+      - name: Generate Latest Repos Section
+        run: |
+          node <<'EOF'
+            const fs = require('fs');
+            const axios = require('axios');
+            const username = 'olankens';
+            const maxRepos = 8;
+            const readmePath = 'README.md';
+            async function main() {
+              const res = await axios.get(`https://api.github.com/users/${username}/repos?sort=updated&per_page=16`);
+              const repos = res.data
+                .filter(repo => repo.name !== username)
+                .slice(0, maxRepos)
+                .map(repo => `<a href="https://github.com/${username}/${repo.name}"><img src="https://raw.githubusercontent.com/${username}/${repo.name}/refs/heads/main/.assets/icon.svg" width="11.1328125%"/></a>`);
+              const spacer = '<picture><img src=".assets/1x1.gif" width="1.5625%"/></picture>';
+              const section = repos.join(spacer);
+              let readme = fs.readFileSync(readmePath, 'utf8');
+              const regex = /<!-- START_TABLE -->[\s\S]*<!-- CEASE_TABLE -->/;
+              const newSection = `<!-- START_TABLE -->\n${section}\n<!-- CEASE_TABLE -->`;
+              if (regex.test(readme)) {
+                readme = readme.replace(regex, newSection);
+              } else {
+                readme += `\n${newSection}`;
+              }
+              fs.writeFileSync(readmePath, readme);
+            }
+            main();
+          EOF
+      - name: Commit and Push changes
+        run: |
+          git config --local user.name "olankens"
+          git config --local user.email "olankens@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: Update newest activity section" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
