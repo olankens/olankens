@@ -24,14 +24,14 @@ jobs:
             const fs = require('fs');
             const axios = require('axios');
             const username = 'olankens';
-            const maxRepos = 8;
+            const maxRepos = 9;
             const readmePath = 'README.md';
             async function main() {
-              const res = await axios.get(`https://api.github.com/users/${username}/repos?sort=updated&per_page=16`);
+              const res = await axios.get(`https://api.github.com/users/${username}/repos?sort=updated&per_page=18`);
               const repos = res.data
                 .filter(repo => repo.name !== username)
                 .slice(0, maxRepos)
-                .map(repo => `<a href="https://github.com/${username}/${repo.name}"><img src="https://raw.githubusercontent.com/${username}/${repo.name}/refs/heads/main/.assets/icon.png" align="center" width="11.1328125%"/></a>`);
+                .map(repo => `<a href="https://github.com/${username}/${repo.name}"><img src="https://raw.githubusercontent.com/${username}/${repo.name}/refs/heads/main/.assets/icon.png" align="center" width="9.72222222222%"/></a>`);
               const spacer = '<picture><img src=".assets/blank.gif" width="1.5625%"/></picture>';
               const section = repos.join(spacer);
               let readme = fs.readFileSync(readmePath, 'utf8');

@@ -2,6 +2,8 @@
 
 Building robust applications with Angular and Spring Boot. I design scalable REST APIs using OpenAPI, focusing on consistency and reliability from contract to implementation. On the frontend, I build responsive, type-safe Angular components with NgRx for state management. On the backend, I use Spring Boot with Spring Data, and Security to deliver secure, transactional projects. I practice contract-first development, validating API specs with Swagger UI and integrating automated tests like JUnit and Playwright into GitHub Actions CI/CD pipelines.
 
+<hr>
+
 **MY NEWEST ACTIVITY**
 
 <!-- START_NEWEST_ACTIVITY -->
