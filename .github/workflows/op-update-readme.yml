@@ -1,8 +1,8 @@
 name: 'OP: Update README'
 
 on:
-#  schedule:
-#    - cron: '0 */6 * * *'
+  schedule:
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -30,10 +30,15 @@ jobs:
               const res = await axios.get(`https://api.github.com/users/${username}/repos?sort=updated&per_page=18`);
               const repos = res.data
                 .filter(repo => repo.name !== username)
-                .slice(0, maxRepos)
-                .map(repo => `<a href="https://github.com/${username}/${repo.name}"><img src="https://raw.githubusercontent.com/${username}/${repo.name}/refs/heads/main/.assets/icon.png" align="center" width="9.72222222222%"/></a>`);
+                .slice(0, maxRepos);
+              const items = Array.from({ length: maxRepos }, (_, i) => {
+                const repo = repos[i];
+                return repo
+                  ? `<a href="https://github.com/${username}/${repo.name}"><img src="https://raw.githubusercontent.com/${username}/${repo.name}/refs/heads/main/.assets/icon.png" align="center" width="9.72222222222%"/></a>`
+                  : `<a href="#"><img src=".assets/icon.png" align="center" width="9.72222222222%"/></a>`;
+              });
               const spacer = '<picture><img src=".assets/blank.gif" width="1.5625%"/></picture>';
-              const section = repos.join(spacer);
+              const section = items.join(spacer);
               let readme = fs.readFileSync(readmePath, 'utf8');
               const regex = /<!-- START_NEWEST_ACTIVITY -->[\s\S]*<!-- CEASE_NEWEST_ACTIVITY -->/;
               const newSection = `<!-- START_NEWEST_ACTIVITY -->\n<p>${section}</p>\n<!-- CEASE_NEWEST_ACTIVITY -->`;
