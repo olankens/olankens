@@ -1,4 +1,4 @@
-name: 'OP: Update README'
+name: '📙 : Update README'
 
 on:
 #  schedule:
@@ -34,8 +34,8 @@ jobs:
               const items = Array.from({ length: maxRepos }, (_, i) => {
                 const repo = repos[i];
                 return repo
-                  ? `<a href="https://github.com/${username}/${repo.name}"><img src="https://raw.githubusercontent.com/${username}/${repo.name}/refs/heads/main/.assets/icon.png" align="center" width="9.72222222222%"/></a>`
-                  : `<a href="#"><img src=".assets/icon.png" align="center" width="9.72222222222%"/></a>`;
+                  ? `<a href="https://github.com/${username}/${repo.name}"><img src="https://raw.githubusercontent.com/${username}/${repo.name}/refs/heads/main/.assets/icon.avif" align="center" width="9.72222222222%"/></a>`
+                  : `<a href="#"><img src=".assets/icon.avif" align="center" width="9.72222222222%"/></a>`;
               });
               const spacer = '<picture><img src=".assets/blank.gif" width="1.5625%"/></picture>';
               const section = items.join(spacer);
