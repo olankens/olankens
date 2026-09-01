@@ -1,0 +1,61 @@
+name: "📙 : Update README"
+on:
+  schedule:
+    - cron: "0 */1 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+      - name: Install dependencies
+        run: npm install axios
+      - name: Generate Newest Activity Section
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node <<'EOF'
+            const fs = require('fs');
+            const axios = require('axios');
+            const username = 'olankens';
+            const maxRepos = 9;
+            const readmePath = 'README.md';
+            async function main() {
+              const res = await axios.get(`https://api.github.com/users/${username}/repos?sort=updated&per_page=18`, {
+                headers: { Authorization: `Bearer ${process.env.GH_TOKEN}` },
+              });
+              const repos = res.data
+                .filter(repo => repo.name !== username && repo.name !== 'deleteme')
+                .slice(0, maxRepos);
+              const items = Array.from({ length: maxRepos }, (_, i) => {
+                const repo = repos[i];
+                return repo
+                  ? `<a href="https://github.com/${username}/${repo.name}"><img src="https://raw.githubusercontent.com/${username}/${repo.name}/refs/heads/main/.assets/icon.avif" align="center" width="9.72222222222%"/></a>`
+                  : `<a href="#"><img src=".assets/icon.avif" align="center" width="11.1328125%"/></a>`;
+              });
+              const spacer = '<picture><img src=".assets/blank.gif" width="1.5625%"/></picture>';
+              const section = items.join(spacer);
+              let readme = fs.readFileSync(readmePath, 'utf8');
+              const regex = /<!-- START_BLOCK -->[\s\S]*<!-- CEASE_BLOCK -->/;
+              const newSection = `<!-- START_BLOCK -->\n<p>${section}</p>\n<!-- CEASE_BLOCK -->`;
+              if (regex.test(readme)) {
+                readme = readme.replace(regex, newSection);
+              } else {
+                readme += `\n${newSection}`;
+              }
+              fs.writeFileSync(readmePath, readme);
+            }
+            main();
+          EOF
+      - name: Commit and Push changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --staged --quiet || git commit -m 'chore: update the newest activity section'
+          git push

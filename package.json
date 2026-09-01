@@ -1,0 +1,31 @@
+{
+  "devDependencies": {
+    "@commitlint/cli": "^21.2.2",
+    "@commitlint/config-conventional": "^21.2.2",
+    "cspell": "^10.1.1",
+    "simple-git-hooks": "^2.14.0"
+  },
+  "scripts": {
+    "prepare": "simple-git-hooks"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ],
+    "rules": {
+      "header-case": [
+        2,
+        "always",
+        "lower-case"
+      ],
+      "subject-case": [
+        2,
+        "always",
+        "lower-case"
+      ]
+    }
+  },
+  "simple-git-hooks": {
+    "commit-msg": "npx --no -- cspell stdin --no-progress --no-summary < $1 && npx --no -- commitlint --edit $1"
+  }
+}
