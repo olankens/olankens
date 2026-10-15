@@ -1,7 +1,7 @@
-name: "📙 : Update README"
+name: 'Update README'
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: '0 2 * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -52,5 +52,5 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git diff --staged --quiet || git commit -m "chore: update readme with latest commit activity on $(date +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "chore: update readme with latest project activity icons on $(date +%Y-%m-%d)"
           git push
