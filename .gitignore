@@ -1,0 +1,10 @@
+# JetBrains
+.idea/*
+!.idea/runConfigurations
+!.idea/startup.xml
+
+# MacOS
+.DS_Store
+
+# Vscode
+.vscode/
